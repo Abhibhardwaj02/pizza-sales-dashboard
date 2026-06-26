@@ -55,7 +55,7 @@ The dataset contains:
 ## 🏠 Home Dashboard
 
 ```md
-![Home Dashboard](images/Home-Dashboard.png)
+![Home Dashboard](Home-Dashboard.png)
 ```
 
 ---
@@ -63,7 +63,7 @@ The dataset contains:
 ## ⭐ Best/Worst Sellers Dashboard
 
 ```md
-![Best/Worst Sellers Dashboard](images-Best/Worst-Dashboard.png)
+![Best/Worst Sellers Dashboard](Best-Worst-Dashboard.png)
 ```
 
 ---
