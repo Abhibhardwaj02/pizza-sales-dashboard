@@ -54,24 +54,16 @@ The dataset contains:
 
 ## 🏠 Home Dashboard
 
-> Add your Home Dashboard screenshot here.
-
-Example:
-
 ```md
-![Home Dashboard](images/home-dashboard.png)
+![Home Dashboard](images/Home-Dashboard.png)
 ```
 
 ---
 
 ## ⭐ Best/Worst Sellers Dashboard
 
-> Add your Best/Worst Sellers screenshot here.
-
-Example:
-
 ```md
-![Best Sellers Dashboard](images/best-worst-dashboard.png)
+![Best Sellers Dashboard](images/Best-Worst-Dashboard.png)
 ```
 
 ---
