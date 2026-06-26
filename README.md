@@ -165,8 +165,8 @@ Aspiring Data Analyst
 
 ### Connect with me
 
-- LinkedIn: *(Add your LinkedIn profile link)*
-- GitHub: *(Add your GitHub profile link)*
+- LinkedIn: https://www.linkedin.com/in/abhi-bhardwaj-660286360
+- GitHub: https://github.com/Abhibhardwaj02
 
 ---
 
