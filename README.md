@@ -55,7 +55,7 @@ The dataset contains:
 ## 🏠 Home Dashboard
 
 ```md
-![Home Dashboard](images/Home-Dashboard.png)
+![Home Dashboard](Home-Dashboard)
 ```
 
 ---
