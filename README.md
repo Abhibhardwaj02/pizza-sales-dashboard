@@ -63,7 +63,7 @@ The dataset contains:
 ## ⭐ Best/Worst Sellers Dashboard
 
 ```md
-![Best/Worst Sellers Dashboard](images/Best/Worst-Dashboard.png)
+![Best/Worst Sellers Dashboard](images-Best/Worst-Dashboard.png)
 ```
 
 ---
