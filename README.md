@@ -50,21 +50,13 @@ The dataset contains:
 
 ---
 
-# 📊 Dashboard Preview
-
 ## 🏠 Home Dashboard
 
-```md
 ![Home Dashboard](Home-Dashboard.png)
-```
-
----
 
 ## ⭐ Best/Worst Sellers Dashboard
 
-```md
 ![Best/Worst Sellers Dashboard](Best-Worst-Dashboard.png)
-```
 
 ---
 
